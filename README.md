@@ -1,0 +1,2 @@
+# Candle-A-Computer-Vision-Candling-System-for-Egg-Freshness-Classification
+Candle is an automated computer vision candling system designed to accurately classify egg freshness and evaluate fertility. Developed as a capstone project for the Digital Egypt Pioneers Initiative (DEPI), this repository contains machine learning models, vision pipelines, and dataset processing tools needed for non-destructive egg quality grades.
